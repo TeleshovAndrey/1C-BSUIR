@@ -1,0 +1,5 @@
+aplle.com	IN A	192.122.012.32
+apIIe.com	IN CNAME	aplle.com
+google.com	IN A	123.222.234.20
+iis.bsuir.by	IN A	213.211.112.10
+iis.bsuir1.by	IN CNAME	iis.bsuir.by
